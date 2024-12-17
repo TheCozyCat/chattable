@@ -18,10 +18,10 @@ a  {
 #top_banner {
     font-family:  MS Gothic, "MSGothic";
     font-weight: bolder !important;
-    background-color: #E67E22;
-    background: #E67E22;
+    background-color: #000;
+    background: #000;
     width: calc(100% - 2px);
-    border: solid 1px #E67E22;
+    border: solid 1px #000;
     box-shadow: 0 0 2px #FFF, 0 0 2px #FFF, 0 0 2px #FFF, 0 0 2px #FFF, 0 0 1px #FFF, 0 3px 4px #000;
     text-shadow: 1px 1px 2px #000;
     position: relative;
@@ -32,7 +32,7 @@ a  {
 
     background-size: 100px 100px;
     box-shadow: 0 0 4px #FFF, 0 0 4px #FFF, 0 0 4px #FFF, 0 0 4px #FFF, 0 0 4px #FFF, 0 3px 4px #000;
-    border: 1px solid #E67E22;
+    border: 1px solid #000;
     border-radius: 8px;
     margin: 0 20px 0 20px;
 }
@@ -50,7 +50,7 @@ a  {
 #input {
     background-color: #FFF;
     border-radius: 0;
-    border-top: 1px solid #E67E22;
+    border-top: 1px solid #000;
     font-family:  MS Gothic, "MSGothic";
 }
 #name {
